@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "moment": "^2.29.1",
+    "sweetalert2": "^11.3.10"
+  }
+}
